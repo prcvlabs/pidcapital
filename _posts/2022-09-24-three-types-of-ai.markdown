@@ -1,3 +1,4 @@
+---
 layout: post
 title: "The Three Types of AI"
 date: 2022-09-24 09:41:10 -0700
