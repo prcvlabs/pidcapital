@@ -6,7 +6,7 @@ categories: thoughts
 author: 'Everett Berry'
 ---
 
-There's only one thing to know about the capabilities of GPT-4 and other large language modesl: they cannot produce new ideas. To quote the [Sparks of AGI paper](https://arxiv.org/abs/2303.12712) from Microsoft, "Perhaps the only real test of understanding is whether one can produce _new knowledge_, such as proving new mathematical theorems, a feat that currently remains out of reach for LLMs."
+There's only one thing to know about the capabilities of GPT-4 and other large language models: they cannot produce new ideas. To quote the [Sparks of AGI paper](https://arxiv.org/abs/2303.12712) from Microsoft, "Perhaps the only real test of understanding is whether one can produce _new knowledge_, such as proving new mathematical theorems, a feat that currently remains out of reach for LLMs."
 
 Deeply understanding this limit is the key to using LLMs like ChatGPT effectively. You should not expect it to perform novel tasks, like writing a thought provoking blog or coming up with a new algorithm. Instead focus on tasks which you know others have likely performed before in some way.
 
