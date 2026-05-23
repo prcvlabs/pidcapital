@@ -6,7 +6,7 @@ layout: home
 title: Portfolio
 ---
 
-I write angel checks from my personal funds as well as through the A16Z scout program.
+I write angel checks from my personal funds as well as through the A16Z scout program. For more about me visit my [personal website](https://retttx.com).
 
 - [Tempo](https://findtempo.co/)
 - [Singulate](https://www.singulate.com/)
